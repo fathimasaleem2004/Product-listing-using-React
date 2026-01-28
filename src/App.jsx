@@ -1,8 +1,8 @@
 import { useState } from 'react';
-import Navbar from './Components/Navbar';
-import SearchBar from './Components/SearchBar';
-import FilterSort from './Components/FilterSort';
-import ProductList from './Components/ProductList';
+import Navbar from './components/Navbar';
+import SearchBar from './components/SearchBar';
+import FilterSort from './components/FilterSort';
+import ProductList from './components/ProductList';
 import productsData from './Data/Products';
 import './App.css';
 

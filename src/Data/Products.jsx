@@ -1,6 +1,6 @@
-import image1 from "../images/images1.jpg";
-import image2 from "../images/image2.jpg";
-import image3 from "../images/image3.jpg";
+import image1 from "../Image/image1.jpg";
+import image2 from "../Image/image2.jpg";
+import image3 from "../Image/image3.jpg";
 
 
 const products = [
